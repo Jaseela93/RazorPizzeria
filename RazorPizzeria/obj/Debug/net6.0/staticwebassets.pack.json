@@ -5,6 +5,58 @@
       "PackagePath": "staticwebassets\\RazorPizzeria.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\jesij\\source\\repos\\RazorPizzeria\\RazorPizzeria\\wwwroot\\css\\images\\PizzaTime.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\PizzaTime.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jesij\\source\\repos\\RazorPizzeria\\RazorPizzeria\\wwwroot\\css\\images\\Pizzas\\Bolognese.png",
+      "PackagePath": "staticwebassets\\css\\images\\Pizzas\\Bolognese.png"
+    },
+    {
+      "Id": "C:\\Users\\jesij\\source\\repos\\RazorPizzeria\\RazorPizzeria\\wwwroot\\css\\images\\Pizzas\\Carbonara.png",
+      "PackagePath": "staticwebassets\\css\\images\\Pizzas\\Carbonara.png"
+    },
+    {
+      "Id": "C:\\Users\\jesij\\source\\repos\\RazorPizzeria\\RazorPizzeria\\wwwroot\\css\\images\\Pizzas\\Create.png",
+      "PackagePath": "staticwebassets\\css\\images\\Pizzas\\Create.png"
+    },
+    {
+      "Id": "C:\\Users\\jesij\\source\\repos\\RazorPizzeria\\RazorPizzeria\\wwwroot\\css\\images\\Pizzas\\Create.zip",
+      "PackagePath": "staticwebassets\\css\\images\\Pizzas\\Create.zip"
+    },
+    {
+      "Id": "C:\\Users\\jesij\\source\\repos\\RazorPizzeria\\RazorPizzeria\\wwwroot\\css\\images\\Pizzas\\Create\\Create.png",
+      "PackagePath": "staticwebassets\\css\\images\\Pizzas\\Create\\Create.png"
+    },
+    {
+      "Id": "C:\\Users\\jesij\\source\\repos\\RazorPizzeria\\RazorPizzeria\\wwwroot\\css\\images\\Pizzas\\Hawaiian.png",
+      "PackagePath": "staticwebassets\\css\\images\\Pizzas\\Hawaiian.png"
+    },
+    {
+      "Id": "C:\\Users\\jesij\\source\\repos\\RazorPizzeria\\RazorPizzeria\\wwwroot\\css\\images\\Pizzas\\Margerita.png",
+      "PackagePath": "staticwebassets\\css\\images\\Pizzas\\Margerita.png"
+    },
+    {
+      "Id": "C:\\Users\\jesij\\source\\repos\\RazorPizzeria\\RazorPizzeria\\wwwroot\\css\\images\\Pizzas\\MeatFeast.png",
+      "PackagePath": "staticwebassets\\css\\images\\Pizzas\\MeatFeast.png"
+    },
+    {
+      "Id": "C:\\Users\\jesij\\source\\repos\\RazorPizzeria\\RazorPizzeria\\wwwroot\\css\\images\\Pizzas\\Mushroom.png",
+      "PackagePath": "staticwebassets\\css\\images\\Pizzas\\Mushroom.png"
+    },
+    {
+      "Id": "C:\\Users\\jesij\\source\\repos\\RazorPizzeria\\RazorPizzeria\\wwwroot\\css\\images\\Pizzas\\Pepperoni.png",
+      "PackagePath": "staticwebassets\\css\\images\\Pizzas\\Pepperoni.png"
+    },
+    {
+      "Id": "C:\\Users\\jesij\\source\\repos\\RazorPizzeria\\RazorPizzeria\\wwwroot\\css\\images\\Pizzas\\Seafood.png",
+      "PackagePath": "staticwebassets\\css\\images\\Pizzas\\Seafood.png"
+    },
+    {
+      "Id": "C:\\Users\\jesij\\source\\repos\\RazorPizzeria\\RazorPizzeria\\wwwroot\\css\\images\\Pizzas\\Vegetarian.png",
+      "PackagePath": "staticwebassets\\css\\images\\Pizzas\\Vegetarian.png"
+    },
+    {
       "Id": "C:\\Users\\jesij\\source\\repos\\RazorPizzeria\\RazorPizzeria\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
