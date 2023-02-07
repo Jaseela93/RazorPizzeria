@@ -7,7 +7,7 @@ namespace RazorPizzeria.Pages
 {
     public class OrdersModel : PageModel
     {
-        public List<PizzaOrder> PizzaOrders=new List<PizzaOrder>();
+        public List<PizzaOrder> PizzaOrders = new List<PizzaOrder>();
         private readonly ApplicationDBContext _context;
         public OrdersModel (ApplicationDBContext context)
         {
