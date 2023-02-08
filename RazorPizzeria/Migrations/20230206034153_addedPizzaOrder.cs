@@ -17,7 +17,7 @@ namespace RazorPizzeria.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     PizzaName = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    PizzaPrice = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    PizzaPrice = table.Column<float>(type: "real", nullable: false)
                 },
                 constraints: table =>
                 {
